@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About
-<p>TerminalCancer lets you browse 4chan from the terminal and archive threads as a spreadsheet. It saves thumbnails with local references in the spreadsheet</p>  
+<p>TerminalCancer lets you browse 4chan from the terminal and archive threads as spreadsheets. It saves thumbnails with local references in the spreadsheet</p>  
                                                  
 <img src="/example_images/2.png" height="60%" width="60%" >
 <img src="/example_images/1.png" height="60%" width="60%" >
