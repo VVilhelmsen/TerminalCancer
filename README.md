@@ -15,7 +15,7 @@
 ### Prerequisites and installation
 
 <ol>
-  <li>git clone https://www.example.org</li>
+  <li>git clone https://github.com/VVilhelmsen/TerminalCancer.git</li>
   <li>pip3 install -r requirements.txt</li>
   <li>python3 main.py</li>
 </ol>
